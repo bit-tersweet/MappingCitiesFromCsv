@@ -3,6 +3,6 @@ A java school project (2017) assigned. The aim of this project was to map a give
 
 The toughest part of this project was to translate latitude and longitude in pixels. In order to front this problem I used Marcator library (java project open source). 
 
-Was given two csv: 1 for the adjecents and one for the cities.
+Was given two csv: one for the adjecents and one for the cities.
 This is the output: 
 ![](https://github.com/bit-tersweet/MappingCitiesFromCsv/blob/master/Mappa%20dests.PNG)
